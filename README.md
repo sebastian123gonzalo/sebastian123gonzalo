@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sebastian Paredes</h1>
-<h3 align="center">Software Engineering Student at UPC specializing in frontend and backend development.</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Sebastian Paredes</h1>
+  <h3>Software Engineering Student at UPC specializing in frontend and backend development.</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="coding gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="coding gif" />
+</div>
 
  
 
@@ -12,5 +14,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian123gonzalo&show_icons=true&locale=en" alt="sebastian123gonzalo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastian123gonzalo&" alt="sebastian123gonzalo" /></p>
+<div align="center">
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastian123gonzalo&" alt="sebastian123gonzalo" /></p>
+</div>
 
